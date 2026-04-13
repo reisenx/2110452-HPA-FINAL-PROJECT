@@ -1,0 +1,10 @@
+*.vscode
+*.exe
+
+# Ignore compiled binary files
+script/*
+!script/*.*
+!script/*/
+
+# Ignore unused files
+src/optimize_v9.cpp
