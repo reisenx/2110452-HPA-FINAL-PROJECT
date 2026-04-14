@@ -1,0 +1,503 @@
+
+Compiling the code...
+
+==============================
+baseline.cpp RUNTIME RESULTS
+Tue Apr 14 01:51:06 +07 2026
+==============================
+
+******************************
+Running grid-40-67.txt
+******************************
+Run Experiment 1
+
+real	0m26.278s
+user	0m26.250s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 2
+
+real	0m27.514s
+user	0m27.483s
+sys	0m0.004s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 3
+
+real	0m30.399s
+user	0m30.394s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 4
+
+real	0m29.008s
+user	0m28.980s
+sys	0m0.008s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 5
+
+real	0m30.319s
+user	0m30.311s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 6
+
+real	0m29.173s
+user	0m29.102s
+sys	0m0.004s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 7
+
+real	0m28.408s
+user	0m28.417s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 8
+
+real	0m26.911s
+user	0m26.835s
+sys	0m0.001s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 9
+
+real	0m26.506s
+user	0m26.524s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 10
+
+real	0m25.264s
+user	0m25.294s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 11
+
+real	0m25.480s
+user	0m25.502s
+sys	0m0.004s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+Run Experiment 12
+
+real	0m25.510s
+user	0m25.516s
+sys	0m0.000s
+
+Result of grid-40-67-experiment.out
+11
+1111001101000000010000100000000010000001
+------------------------------
+
+******************************
+Running rand-40-80.txt
+******************************
+Run Experiment 1
+
+real	0m9.277s
+user	0m9.202s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 2
+
+real	0m9.387s
+user	0m9.379s
+sys	0m0.004s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 3
+
+real	0m9.294s
+user	0m9.336s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 4
+
+real	0m9.179s
+user	0m9.119s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 5
+
+real	0m9.457s
+user	0m9.355s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 6
+
+real	0m8.799s
+user	0m8.909s
+sys	0m0.008s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 7
+
+real	0m9.536s
+user	0m9.494s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 8
+
+real	0m9.670s
+user	0m9.571s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 9
+
+real	0m8.883s
+user	0m8.970s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 10
+
+real	0m9.128s
+user	0m9.112s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 11
+
+real	0m9.140s
+user	0m9.052s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+Run Experiment 12
+
+real	0m9.334s
+user	0m9.371s
+sys	0m0.000s
+
+Result of rand-40-80-experiment.out
+9
+0000000001100100100100100001100000100000
+------------------------------
+
+******************************
+Running ring-40-40.txt
+******************************
+Run Experiment 1
+
+real	5m3.922s
+user	5m3.939s
+sys	0m0.000s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 2
+
+real	5m1.934s
+user	5m1.913s
+sys	0m0.005s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 3
+
+real	5m32.422s
+user	5m32.369s
+sys	0m0.005s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 4
+
+real	5m7.225s
+user	5m7.134s
+sys	0m0.008s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 5
+
+real	4m59.227s
+user	4m59.200s
+sys	0m0.001s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 6
+
+real	4m59.644s
+user	4m59.605s
+sys	0m0.017s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 7
+
+real	5m3.268s
+user	5m3.188s
+sys	0m0.012s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 8
+
+real	4m56.483s
+user	4m56.476s
+sys	0m0.014s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 9
+
+real	4m56.089s
+user	4m56.091s
+sys	0m0.014s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 10
+
+real	4m56.669s
+user	4m56.671s
+sys	0m0.001s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 11
+
+real	4m57.898s
+user	4m57.875s
+sys	0m0.004s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+Run Experiment 12
+
+real	4m56.807s
+user	4m56.755s
+sys	0m0.004s
+
+Result of ring-40-40-experiment.out
+14
+1101010000110001010101010000000010011000
+------------------------------
+
+******************************
+Running tree-40-39.txt
+******************************
+Run Experiment 1
+
+real	39m29.655s
+user	39m29.397s
+sys	0m0.048s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 2
+
+real	28m52.614s
+user	28m52.564s
+sys	0m0.018s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 3
+
+real	26m3.897s
+user	26m3.957s
+sys	0m0.010s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 4
+
+real	25m51.572s
+user	25m51.470s
+sys	0m0.013s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 5
+
+real	25m53.009s
+user	25m52.970s
+sys	0m0.007s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 6
+
+real	25m50.542s
+user	25m50.432s
+sys	0m0.001s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 7
+
+real	25m50.929s
+user	25m50.919s
+sys	0m0.011s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 8
+
+real	27m53.549s
+user	27m53.506s
+sys	0m0.001s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 9
+
+real	25m52.785s
+user	25m52.759s
+sys	0m0.001s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 10
+
+real	25m48.789s
+user	25m48.795s
+sys	0m0.004s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 11
+
+real	25m52.663s
+user	25m52.635s
+sys	0m0.004s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
+Run Experiment 12
+
+real	25m48.883s
+user	25m48.873s
+sys	0m0.005s
+
+Result of tree-40-39-experiment.out
+16
+0010111111010101011100000001000000010010
+------------------------------
