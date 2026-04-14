@@ -1,0 +1,407 @@
+
+Compiling the code...
+
+==============================
+optimize_v5.cpp RUNTIME RESULTS
+Mon Apr 13 23:36:47 +07 2026
+==============================
+Running grid-6-7.txt
+real	0m0.042s
+user	0m0.000s
+sys	0m0.002s
+
+Result of grid-6-7.out
+000110
+------------------------------
+Running grid-9-12.txt
+real	0m0.007s
+user	0m0.000s
+sys	0m0.001s
+
+Result of grid-9-12.out
+000100011
+------------------------------
+Running grid-12-17.txt
+real	0m0.008s
+user	0m0.002s
+sys	0m0.000s
+
+Result of grid-12-17.out
+000001010101
+------------------------------
+Running grid-16-24.txt
+real	0m0.018s
+user	0m0.002s
+sys	0m0.000s
+
+Result of grid-16-24.out
+0100001011000000
+------------------------------
+Running grid-20-31.txt
+real	0m0.007s
+user	0m0.002s
+sys	0m0.000s
+
+Result of grid-20-31.out
+00010001000000110011
+------------------------------
+Running grid-25-40.txt
+real	0m0.010s
+user	0m0.002s
+sys	0m0.000s
+
+Result of grid-25-40.out
+1000000101000011010000001
+------------------------------
+Running grid-30-49.txt
+real	0m0.010s
+user	0m0.000s
+sys	0m0.002s
+
+Result of grid-30-49.out
+001001010100000100101000000001
+------------------------------
+Running grid-40-67.txt
+real	0m0.013s
+user	0m0.003s
+sys	0m0.003s
+
+Result of grid-40-67.out
+0000000110000000101001000101000001010110
+------------------------------
+Running grid-49-84.txt
+real	0m0.016s
+user	0m0.009s
+sys	0m0.000s
+
+Result of grid-49-84.out
+0100101000000110000001000000001000100000100110010
+------------------------------
+Running grid-56-97.txt
+real	0m0.126s
+user	0m0.114s
+sys	0m0.000s
+
+Result of grid-56-97.out
+00000001100000000111001001000100000011000010010001100000
+------------------------------
+Running grid-60-104.txt
+real	0m0.923s
+user	0m0.905s
+sys	0m0.000s
+
+Result of grid-60-104.out
+000100000001000000100001100001010000000000011110010010101010
+------------------------------
+Running rand-5-7.txt
+real	0m0.011s
+user	0m0.002s
+sys	0m0.000s
+
+Result of rand-5-7.out
+00010
+------------------------------
+Running rand-10-15.txt
+real	0m0.008s
+user	0m0.002s
+sys	0m0.000s
+
+Result of rand-10-15.out
+1000000011
+------------------------------
+Running rand-15-28.txt
+real	0m0.025s
+user	0m0.002s
+sys	0m0.000s
+
+Result of rand-15-28.out
+101010000000010
+------------------------------
+Running rand-20-40.txt
+real	0m0.007s
+user	0m0.001s
+sys	0m0.000s
+
+Result of rand-20-40.out
+00000010100010001010
+------------------------------
+Running rand-25-50.txt
+real	0m0.006s
+user	0m0.000s
+sys	0m0.001s
+
+Result of rand-25-50.out
+0000010110000100000000010
+------------------------------
+Running rand-30-60.txt
+real	0m0.014s
+user	0m0.002s
+sys	0m0.000s
+
+Result of rand-30-60.out
+000101010100010000000100010000
+------------------------------
+Running rand-30-120.txt
+real	0m0.012s
+user	0m0.002s
+sys	0m0.000s
+
+Result of rand-30-120.out
+010000000000000001000000000111
+------------------------------
+Running rand-35-140.txt
+real	0m0.019s
+user	0m0.001s
+sys	0m0.002s
+
+Result of rand-35-140.out
+00000000000000100000001001010001001
+------------------------------
+Running rand-40-80.txt
+real	0m0.019s
+user	0m0.004s
+sys	0m0.003s
+
+Result of rand-40-80.out
+0000000001100100100100100000100100100000
+------------------------------
+Running rand-40-160.txt
+real	0m0.017s
+user	0m0.004s
+sys	0m0.000s
+
+Result of rand-40-160.out
+0000000000000001000001000100010000010010
+------------------------------
+Running rand-45-180.txt
+real	0m0.022s
+user	0m0.007s
+sys	0m0.004s
+
+Result of rand-45-180.out
+000000000010100000010000001000000000011000100
+------------------------------
+Running rand-50-200.txt
+real	0m0.021s
+user	0m0.010s
+sys	0m0.000s
+
+Result of rand-50-200.out
+10010000000000000000010110000001000000001000000000
+------------------------------
+Running rand-60-250.txt
+real	0m1.229s
+user	0m1.301s
+sys	0m0.000s
+
+Result of rand-60-250.out
+000000001100001000000000000100000100000000000010110000000001
+------------------------------
+Running ring-5-5.txt
+real	0m0.014s
+user	0m0.001s
+sys	0m0.000s
+
+Result of ring-5-5.out
+00101
+------------------------------
+Running ring-10-10.txt
+real	0m0.013s
+user	0m0.002s
+sys	0m0.000s
+
+Result of ring-10-10.out
+0001011001
+------------------------------
+Running ring-15-15.txt
+real	0m0.012s
+user	0m0.001s
+sys	0m0.000s
+
+Result of ring-15-15.out
+000000110001101
+------------------------------
+Running ring-20-20.txt
+real	0m0.012s
+user	0m0.002s
+sys	0m0.000s
+
+Result of ring-20-20.out
+00010011000011001001
+------------------------------
+Running ring-25-25.txt
+real	0m0.014s
+user	0m0.002s
+sys	0m0.000s
+
+Result of ring-25-25.out
+0101000001010010000100111
+------------------------------
+Running ring-30-30.txt
+real	0m0.010s
+user	0m0.001s
+sys	0m0.000s
+
+Result of ring-30-30.out
+011101110000010000010000001001
+------------------------------
+Running ring-35-35.txt
+real	0m0.009s
+user	0m0.001s
+sys	0m0.000s
+
+Result of ring-35-35.out
+01000100000001000011000110100101011
+------------------------------
+Running ring-40-40.txt
+real	0m0.008s
+user	0m0.001s
+sys	0m0.000s
+
+Result of ring-40-40.out
+0010100101000000000000001011111000100111
+------------------------------
+Running ring-50-50.txt
+real	0m0.011s
+user	0m0.001s
+sys	0m0.000s
+
+Result of ring-50-50.out
+00000000100001000010111001011000000010001011010111
+------------------------------
+Running ring-60-60.txt
+real	0m0.027s
+user	0m0.020s
+sys	0m0.000s
+
+Result of ring-60-60.out
+010100100000000100001100000100001110010001100111100010100001
+------------------------------
+Running spec-1.txt
+real	0m0.014s
+user	0m0.002s
+sys	0m0.000s
+
+Result of spec-1.out
+100000100000
+------------------------------
+Running spec-2.txt
+real	0m0.016s
+user	0m0.002s
+sys	0m0.000s
+
+Result of spec-2.out
+0010100
+------------------------------
+Running spec-3.txt
+real	0m0.012s
+user	0m0.001s
+sys	0m0.000s
+
+Result of spec-3.out
+1100000000000000000000000000000000000000
+------------------------------
+Running spec-4.txt
+real	0m0.009s
+user	0m0.000s
+sys	0m0.002s
+
+Result of spec-4.out
+00000000000000000000000000000000000000000000000001
+------------------------------
+Running spec-5.txt
+real	0m0.006s
+user	0m0.001s
+sys	0m0.001s
+
+Result of spec-5.out
+000001010000001
+------------------------------
+Running spec-6.txt
+real	0m0.006s
+user	0m0.001s
+sys	0m0.000s
+
+Result of spec-6.out
+100001000001000
+------------------------------
+Running spec-7.txt
+real	0m0.010s
+user	0m0.001s
+sys	0m0.000s
+
+Result of spec-7.out
+000010010000001
+------------------------------
+Running tree-5-4.txt
+real	0m0.012s
+user	0m0.000s
+sys	0m0.002s
+
+Result of tree-5-4.out
+01100
+------------------------------
+Running tree-10-9.txt
+real	0m0.009s
+user	0m0.001s
+sys	0m0.000s
+
+Result of tree-10-9.out
+1101001001
+------------------------------
+Running tree-15-14.txt
+real	0m0.009s
+user	0m0.001s
+sys	0m0.000s
+
+Result of tree-15-14.out
+011000010000100
+------------------------------
+Running tree-20-19.txt
+real	0m0.010s
+user	0m0.001s
+sys	0m0.000s
+
+Result of tree-20-19.out
+00001010010000110110
+------------------------------
+Running tree-25-24.txt
+real	0m0.011s
+user	0m0.002s
+sys	0m0.000s
+
+Result of tree-25-24.out
+0010100101001000100100001
+------------------------------
+Running tree-30-29.txt
+real	0m0.013s
+user	0m0.004s
+sys	0m0.000s
+
+Result of tree-30-29.out
+101000010000111100011000000110
+------------------------------
+Running tree-35-34.txt
+real	0m0.041s
+user	0m0.032s
+sys	0m0.000s
+
+Result of tree-35-34.out
+10000111100010001100100101001001000
+------------------------------
+Running tree-40-39.txt
+real	0m0.711s
+user	0m0.715s
+sys	0m0.000s
+
+Result of tree-40-39.out
+0010011111000101011000000011001000010011
+------------------------------
+Running tree-50-49.txt
+real	0m18.265s
+user	0m18.228s
+sys	0m0.004s
+
+Result of tree-50-49.out
+01011100001000000100110101010100001100011000100001
+------------------------------
